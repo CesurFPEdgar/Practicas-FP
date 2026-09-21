@@ -1,3 +1,2 @@
-[feature/registro 1f92158] Primer commit sobre Registro
- 1 file changed, 1 insertion(+)
- create mode 100644 registro.txt
+[feature/registro 9a13d2a] Primer commit sobre Registro
+ 1 file changed, 3 insertions(+), 1 deletion(-)
