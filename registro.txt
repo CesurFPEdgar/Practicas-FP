@@ -1,2 +1,0 @@
-[feature/registro 9a13d2a] Primer commit sobre Registro
- 1 file changed, 3 insertions(+), 1 deletion(-)
